@@ -1,0 +1,22 @@
+[
+  {
+    "name": "Shopping",
+    "icon": "shopping_cart"
+  },
+  {
+    "name": "Food",
+    "icon": "fastfood"
+  },
+  {
+    "name": "Bills",
+    "icon": "receipt"
+  },
+  {
+    "name": "Medical",
+    "icon": "local_hospital"
+  },
+  {
+    "name": "Travel",
+    "icon": "flight"
+  }
+]
